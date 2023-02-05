@@ -1,1 +1,7 @@
-google how 2 make md file github
+# welcome
+Console.Title = "mrmagmablock";
+
+Console.ForegroundColor = ConsoleColor.Green;<br>
+Console.BackgroundColor = ConsoleColor.Black;
+
+Console.WriteLine("welcome!");
