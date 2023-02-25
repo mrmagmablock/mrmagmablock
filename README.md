@@ -1,4 +1,4 @@
-# Visual Studio Code                     -❒X
+# Visual Studio Code                                       -❒X
 Console.Title = "mrmagmablock";
 
 Console.ForegroundColor = ConsoleColor.Green;<br>
