@@ -1,7 +1,8 @@
-# Visual Studio Code                                       -❒X
-Console.Title = "mrmagmablock";
+# Visual Studio  -❒X
 
-Console.ForegroundColor = ConsoleColor.Green;<br>
-Console.BackgroundColor = ConsoleColor.Black;
+#include <iostream>
 
-Console.WriteLine("welcome!");
+int main() {
+    std::cout << "hi there!";
+    return 0;
+}
